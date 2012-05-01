@@ -1,0 +1,9 @@
+{
+    "name": "tabutils", 
+    "license": "MPL 2.0", 
+    "author": "Martin Hauner", 
+    "version": "0.3", 
+    "fullName": "tabutils", 
+    "id": "jid1-DFBVzsFMQt9BUg", 
+    "description": "simple tab group aware tab counter"
+}
